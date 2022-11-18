@@ -1,3 +1,4 @@
 import LandingPage from './LandingPage/index';
+import WalletPage from './WalletPage';
 
-export { LandingPage };
+export { LandingPage, WalletPage };
